@@ -1,6 +1,12 @@
-# Explainable Machine Learning Models: Review and Computational Analysis
+---
+layout: page
+title: "Explainable Machine Learning Models: Review and Computational Analysis"
+permalink: /explainableml2023/
+exclude: true
+---
 
-Written by Šimon Růžička and Utku Ipek  
+Written by Šimon Růžička and Utku Ipek
+
 Computational Aspects of Machine Learning Seminar, CIT TUM, 2023
 
 ## Abstract
