@@ -33,8 +33,8 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
 
-theme: minima
-# theme: jekyll-theme-slate
+# theme: minima
+theme: jekyll-theme-clean-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
