@@ -3,3 +3,9 @@
 ---
 
 @import "styles";
+
+@import "rouge_style.css";
+
+table, th, td {
+  border: 1px solid;
+}

@@ -30,6 +30,7 @@ github_username:  ruzicka02
 
 # Build settings
 markdown:           kramdown
+highlighter:        rogue
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
