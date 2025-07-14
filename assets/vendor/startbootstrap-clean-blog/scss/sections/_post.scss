@@ -2,10 +2,10 @@
 .post-preview {
     >a {
         color: $gray-900;
+        text-decoration: none;
 
         &:focus,
         &:hover {
-            text-decoration: none;
             color: $primary;
         }
 
