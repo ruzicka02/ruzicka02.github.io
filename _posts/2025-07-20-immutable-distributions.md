@@ -64,6 +64,101 @@ excessive to me, and I wouldn't have the guts to run this on my primary system.
 
 ## How it all works
 
+In the core principle, you have to treat an immutable system slightly different,
+than what you might be used to from other systems. It might not be intuitive at
+first, but it seems like a sensible change to me. You do not have a single
+package manager for *everything* anymore, but your system essentially splits
+into two - the immutable core of your OS, and your messy user applications.
+If you cannot enforce the solid principle of dependency management and
+replicability on your applications, then don't. But the core of your system will
+still boot, no matter what happens.
+
+When installing a new application, an important question arises. How do I
+install it. More importantly, what is the *best way* to install it? For
+graphical applications, you generally want to use Flatpak, as the de-facto
+current Linux standard. While coming with a size overhead and certain
+limitations, it offers a decent amount of isolation from your operating system.
+You still have other alternatives like AppImage available, but unless they are
+really necessary, it doesn't make much sense.
+
+Installing CLI programs and applications is a completely different story.
+You can either layer them on top of the OS via `rpm-ostree`, install them in a
+`toolbx`, or use a completely custom container via Docker or preferrably Podman.
+In many cases, you can do all three of these, and determining the best is not
+always easy. Luckily, most users will never care.
+
+After overcoming the initial shock of doing things differently, one intuitively
+starts asking an important question - how isn't this the default? While new for
+Linux, many other operating systems have been doing so for decades. Windows,
+Android, macOS and iOS, they all use some form of isolation of the user programs
+from the system. However, unlike Linux, these systems are primarily meant for
+end users, generally not tech-savvy enough to care. For Linux, desktop usage may
+sometimes look more as an afterthought, and while it is also used on desktops
+for a relatively long time, it gained the most traction in the past few years.
+
 ## How I use it
 
+As said before, for the graphical applications I mostly use Flatpak. It has
+a certain learning curve with the directory permissions, which can be slightly
+unintuitive at first, in the "why is my file not here" way. However, after
+understanding the permissions system and playing with it (Flatpak
+Permissions on KDE, under System Settings), one can understand the benefits.
+It surely sounds better than giving every app a permission to access all your
+files, as is common in the desktop world.
+
+There were various applications, where I resigned on my hopes of running them
+via Flatpak, even though available there. These were
+[balenaEtcher](https://etcher.balena.io/) and [Raspberry Pi
+Imager](https://www.raspberrypi.com/software/), both serving the purpose
+of flashing an OS image on a flash drive. It is highly possible that they are
+both usable via Flatpak with correct set of permissions given, but I took the
+easy way and used the Balena AppImage.
+
+In CLI, I try to use the OS Tree layering as little as possible, for programs
+I really need in the OS. They are the following:
+
+- `pip`: Sensible way to use a global Python environment outside of a venv.
+- `zsh`: I prefer to use it instead of the default bash.
+- `vim-X11`: Using a text editor in toolbox may be a bit tricky, because the
+  filesystems are not identical. For example, you cannot use it to edit files
+  under `/etc`, because the container has its own `/etc` directory.
+- `htop`: While it works just fine to me in the container, it seemed easier
+  to layer it. I could probably live without it.
+- `zerotier-one`: Network-level programs generally need to work on the core
+  operating system.
+- `fzf` + `fd-find`: I use them together with the "Oh my zsh!" plugin. Similar
+  reason for layering as with `vim`, they would only look in the mounted
+  directories.
+
+This list could probably be reduced if I didn't insist on using the terminal
+of the core OS that much. To me, it seems like a decent compromise between the
+principles of immutability and the ability to use my own computer.
+
+For most of the remaining programs I use, I install them in a single global
+toolbox. While this may be a "bad practice" in containerization, I still view
+the container as purely disposable, and I maintain my own script that I could
+use to replicate it. This default container runs Fedora, but I also have one
+Ubuntu container for TeXlive. In my opinion, TeX works strangely on Fedora,
+which tries to manage it on its own via `dnf`, but then provides out-of-date
+packages compared to pure TeXlive. I also heard various people recommend using
+a container for TeXlive installation anyways, even on a mutable distribution.
+
+Lazygit also has a special place in my heart, so I keep it outside of the
+toolbox container. As the latest versions often weren't available via dnf,
+which used a non-standard COPR repository anyway, I simply downloaded the binary
+from Github and placed it in the `~/.local/bin` directory. I generally wouldn't
+recommend this for software I want to keep up-to-date, but lazygit can fetch
+new updates on its own, so it is a better idea than it seems.
+
 ## Is it worth it?
+
+The million dollar question - is all the described hassle worth the benefits?
+To be fair, nobody can answer this for you, I only speak for myself. As of now,
+it is worth it for me, and therefore I use it on my personal desktop and laptop.
+While coming with various complications, I often find the resulting solution
+more elegant than any "quick fix" that I would perform on a standard mutable
+system. I also particularly enjoy the benefits of safe and rollbackable updates.
+
+It is very possible that all of this is simply "not for you". However, I
+encourage you to at least do your own research on the topic, because I believe
+it might be here to stay in the world of Linux desktop.
