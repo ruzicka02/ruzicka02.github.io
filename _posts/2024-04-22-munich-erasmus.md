@@ -4,9 +4,9 @@ title: "Prestižní univerzita, Alpy a Weißwurst – Erasmus v Mnichově"
 background: /img/2024-04-22-munich-erasmus/01.jpeg
 ---
 
+Tento příspěvek původně vnikl pro blog [Studuj ve světě ČVUT](https://studujvesvete.cvut.cz/prestizni-univerzita-alpy-a-weiswurst-erasmus-v-mnichove/).
 
-
-> Při plánování výjezdu jsem si nebyl jistý, zda není škoda příležitosti Erasmu nevyužít pořádně a vyjet někam dál. Zpětně však musím říct, že ničeho nelituji, jelikož i relativně blízké město může přinést mnohé nečekané zážitky a kulturní šoky, které ke studijním výjezdům patří. Mnichov je centrum mnoha kultur, díky čemuž na univerzitě i v ulicích potkáte lidi, se kterými byste jinak neměli příležitost promluvit. Samotná bavorská kultura je nám Čechům pak v mnohém blízká, ale i tak na nás čeká nejedno překvapení. Tak vyražte se mnou!
+Při plánování výjezdu jsem si nebyl jistý, zda není škoda příležitosti Erasmu nevyužít pořádně a vyjet někam dál. Zpětně však musím říct, že ničeho nelituji, jelikož i relativně blízké město může přinést mnohé nečekané zážitky a kulturní šoky, které ke studijním výjezdům patří. Mnichov je centrum mnoha kultur, díky čemuž na univerzitě i v ulicích potkáte lidi, se kterými byste jinak neměli příležitost promluvit. Samotná bavorská kultura je nám Čechům pak v mnohém blízká, ale i tak na nás čeká nejedno překvapení. Tak vyražte se mnou!
 
 ## Studium na prvním místě
 
@@ -62,4 +62,4 @@ Na rovinu přiznám, že v rámci studentské snahy ušetřit jsem do restaurac�
 
 Erasmus je unikátní a jednoduchou příležitostí, jak vyzkoušet život v zahraničí. Doufám, že vám tento příspěvek pomohl, pokud třeba právě váháte, jestli a kam vyrazit.
 
-Pokud byste náhodou chtěli jet taky do Mnichova, můžete mi napsat na ruzicsi1@fit.cvut.cz, rád zodpovím případné dotazy.
+Pokud byste náhodou chtěli jet taky do Mnichova, můžete mi napsat, rád zodpovím případné dotazy.
