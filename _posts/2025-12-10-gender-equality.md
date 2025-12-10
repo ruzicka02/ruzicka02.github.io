@@ -8,19 +8,18 @@ title: "Economical and political aspects of gender equality"
 
 <p>
     DISCLAIMER: Due to how the Export to HTML feature works in the Python
-    library Plotly, it is best to view this website on a wide
-    (desktop/laptop) screen. I made my effort to make the styling
-    phone-friendly, but the result is still lacking. If you are viewing this
-    site on a mobile device, please switch to "Desktop Site" mode in your
-    browser settings.
+    library Plotly, this blogpost only contains videos of the interactive
+    visualizations. To see the full interactive versions, please visit the <a
+    href="/genderequality2025/">dedicated page</a>. Works best on a desktop
+    computer.
 </p>
 
 <p>
     This website was created as a school project, together with a <a
-    href="report.pdf" target="_blank">PDF report</a>, that describes the
-    problematic in greater detail. The goal of the project was to dive into
-    a new problematic, collect and process data from serious sources, and
-    create a set of visualizations that answer our key theses clearly.
+    href="/genderequality2025/report.pdf" target="_blank">PDF report</a>, that
+    describes the problematic in greater detail. The goal of the project was to
+    dive into a new problematic, collect and process data from serious sources,
+    and create a set of visualizations that answer our key theses clearly.
 </p>
 
 <p>
