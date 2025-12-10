@@ -76,6 +76,8 @@ title: "Economical and political aspects of gender equality"
 </p>
 
 <!-- overview -->
+<img src="/img/genderequality2025/overview.webp" alt="Overview of gender
+equality data" style="max-width: 100%; height: auto;" />
 
 <p>
     Look at how different countries perform.  Notice how higher salaries do
@@ -85,6 +87,8 @@ title: "Economical and political aspects of gender equality"
 </p>
 
 <!-- earn_gr_gpgr2 -->
+<img src="/img/genderequality2025/earn_gr_gpgr2.webp" alt="Gender pay gap in
+unadjusted form" style="max-width: 100%; height: auto;" />
 
 <p>
     With the parliamentary seats, the general trend is that the Nordic
@@ -95,6 +99,8 @@ title: "Economical and political aspects of gender equality"
 </p>
 
 <!-- sdg_05_50 -->
+<img src="/img/genderequality2025/sdg_05_50.webp" alt="Seats held by women in
+national parliaments" style="max-width: 100%; height: auto;" />
 
 <h2>Data sources</h2>
 
