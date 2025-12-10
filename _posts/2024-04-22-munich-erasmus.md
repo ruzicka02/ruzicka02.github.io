@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Prestižní univerzita, Alpy a Weißwurst – Erasmus v Mnichově"
+background: /img/2024-04-22-munich-erasmus/01.jpeg
 ---
 
 
@@ -15,14 +16,17 @@ Studijní dohodu jsem měl s Fakultou informatiky Technické univerzity Mnichov 
 
 Celé studium jsem měl v angličtině, za což jsem rád. Německy jsem se učil pouze krátkou dobu před výjezdem, své dovednosti jsem dále mohl zlepšovat na kurzu němčiny od univerzity. Příjemně mě překvapila také nabídka tělocviků, pravidelně jsem chodil hrát volejbal a plavat do Olympijského stadionu.
 
+<img src="/img/2024-04-22-munich-erasmus/03.jpeg" alt="Univerzitní kampus TUM v Garching bei München" class="w-75" />
+
 ## Mnichov a bydlení
 
 Sehnat bydlení v Mnichově na půl roku byla poměrně velká výzva. Škola sice koleje nabízí, ale kapacity zdaleka nedostačují pro všechny přijíždějící studenty. Od těch, kteří se na koleje dostali jsem, ale slyšel chválu, jedná se o moderně zařízené byty v bývalé olympijské vesnici. Jelikož je v Mnichově soukromé bydlení poměrně drahé, i místní studenti čekají v pořadníku na koleje, údajně až jeden rok. Škola však nabízí vlastní web pro inzeráty soukromých nájmů, hodně studentů hledá přes WG Gesucht. Já osobně se dostal k bydlení přes vzdálenější známé, kteří v Mnichově bydlí v rodinném domě a pronajímali volný pokoj.
 
 ## Po kolejích kamkoliv
 
-Pohled na rakouské Alpy z Wallbergu (1722 m)
-Pohled na rakouské Alpy z Wallbergu (1722 m)
+<img src="/img/2024-04-22-munich-erasmus/05.jpeg" alt="Pohled na rakouské Alpy z Wallbergu (1722 m)" class="w-100" />
+
+> Pohled na rakouské Alpy z Wallbergu (1722 m)
 
 Hromadná doprava v Mnichově je rychlá a spolehlivá, což ovšem pro nás přijíždějící z Prahy nebude nic nového. Mnichov však expanduje i do okolí, a síť S-Bahnových linek vás zaveze i na menší výlet do přírody. V Mnichově je často posmívaný pro svou nespolehlivost, ale pokud pro vás S-Bahn neznamená denní dojíždění do školy nebo práce, rádi se s ním občas svezete. Na větší výlety do Alp je již potřeba nasednout do klasické vlakové linky, které vás za hodinu cesty dovezou přímo pod hory. Na jednodenní horské túry se tedy jedná o ideální destinaci.
 
@@ -32,13 +36,15 @@ Pro dopravu po Mnichově je také ideální mít vlastní kolo. Město je pro to
 
 ## Kultura, fotbal a pivo
 
-Zahájení fotbalového zápasu s dodatečnými světelnými efekty
-Zahájení fotbalového zápasu s dodatečnými světelnými efekty
+<img src="/img/2024-04-22-munich-erasmus/04.jpeg" alt="Zahájení fotbalového zápasu s dodatečnými světelnými efekty" class="w-100" />
+
+> Zahájení fotbalového zápasu s dodatečnými světelnými efekty
 
 Pokud bych zmínil Mnichov před někým, kdo jej příliš nezná, pravděpodobně by si vybavil následující dvě věci – FC Bayern a Oktoberfest, ne nutně v tomto pořadí. Ač Mnichov doopravdy nabízí mnohem víc, obě jsem si chtěl vyzkoušet. Oktoberfest jsem navštívil pouze zběžně, končil pár dnů po mém příjezdu do Mnichova. Na fotbal jsem se vydal hned několikrát, a atmosféra v plné Allianz Areně pro 70‘000 diváků je skutečně něco těžko přenositelného.
 
-Povoz táhnoucí sudy piva na Oktoberfest
-Povoz táhnoucí sudy piva na Oktoberfest
+<img src="/img/2024-04-22-munich-erasmus/01.jpeg" alt="Povoz táhnoucí sudy piva na Oktoberfest" class="w-100" />
+
+> Povoz táhnoucí sudy piva na Oktoberfest
 
 Pro kulturnější jedince bych rozhodně doporučil návštěvu nějaké mnichovské galerie, např. Pinakotheky je možné každou neděli vidět za symbolické vstupné 1 Euro. Dále v Mnichově silně doporučuji návštěvu zámku Nymphenburg, pro rekreaci pak Olympiapark nebo Englischer Garten. Pokud by vám historické centrum Mnichova již přišlo malé, dá se vlakem dojet i do jiných měst, sice dnes menších, ale historicky neméně významných, jako je např. Augsburg, Regensburg nebo dokonce rakouský Salzburg.
 
@@ -46,8 +52,9 @@ Co se týče místního obyvatelstva, přišlo mi že je Bavorsko poměrně podo
 
 ## Bavorská kuchyně, stravování
 
-Zámek Nymphenburg, bývalé sídlo bavorského krále
-Zámek Nymphenburg, bývalé sídlo bavorského krále
+<img src="/img/2024-04-22-munich-erasmus/02.jpeg" alt="Zámek Nymphenburg, bývalé sídlo bavorského krále" class="w-100" />
+
+> Zámek Nymphenburg, bývalé sídlo bavorského krále
 
 Na rovinu přiznám, že v rámci studentské snahy ušetřit jsem do restaurací příliš nechodil. Zatímco potraviny v obchodě jsou podobně drahé jako v ČR, v případě restaurací jsou ceny značně vyšší, odhadem o 50 %. Cenově nejdostupnější stravování pak bylo v univerzitních menzách, navíc nabídkou velmi rozmanité. Jídlo se platí na váhu, běžná porce pak vyjde zhruba jako v ČVUT menzách (pro studenty .80 €/100 g, o něco dražší jsou jídla s masem). Volil jsem tedy buď menzy, nebo vlastní domácí vaření.
 
